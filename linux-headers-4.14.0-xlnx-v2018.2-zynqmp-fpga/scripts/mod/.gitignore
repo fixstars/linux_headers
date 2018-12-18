@@ -1,4 +1,4 @@
 elfconfig.h
 mk_elfconfig
-modpost
+#modpost
 devicetable-offsets.h
